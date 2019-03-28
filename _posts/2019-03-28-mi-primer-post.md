@@ -1,8 +1,8 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
+layout: post
+title: Mi Primer Post
 modified:
-categories: {{ dir }}
+categories:
 description:
 tags: []
 image:
@@ -11,4 +11,5 @@ image:
   creditlink:
 comments:
 share:
+date: 2019-03-28T00:18:35-06:00
 ---
